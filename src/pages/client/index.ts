@@ -1,0 +1,9 @@
+export { default as ClientDashboard } from './Dashboard';
+export { default as NewOrder } from './NewOrder';
+export { default as Orders } from './Orders';
+export { default as Revisions } from './Revisions';
+export { default as Disputes } from './Disputes';
+export { default as Billing } from './Billing';
+export { default as Messages } from './Messages';
+export { default as Settings } from './Settings';
+export { default as Support } from './Support';
